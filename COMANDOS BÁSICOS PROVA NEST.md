@@ -88,8 +88,12 @@ nest g co livro
 ●	Ação: No constructor, injete o LivroService.
 ●	Crie os métodos com @Post(), @Get(), @Delete() chamando o Service.
 
+# No MySQL Workbench
 
-Conexão com BD (.env)
+create database prova1304;
+
+
+# Conexão com BD (.env)
 
 DB_HOST = localhost
 DB_PORT = 3306
